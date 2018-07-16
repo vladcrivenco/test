@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>86495</string>
+                <key>className</key>
+                <string>PTModelObjectButtonPowerup</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>daily reward</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{320.000,796.060}</string>
+                </dict>
+                <key>Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.750,0.750}</string>
+                </dict>
+                <key>Hidden</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Locked</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Stick To Edge</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+                <key>Powerup Selection</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>86483</string>
+                </dict>
+                <key>Layering</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kAboveCharacter</string>
+                </dict>
+                <key>Back To</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Back To World</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string></string>
+                </dict>
+                <key>Keyboard Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>-1</string>
+                </dict>
+                <key>Touch Emulation</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Label Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Label Scale</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                </dict>
+                <key>Max Refill</key>
+                <dict>
+                    <key>value</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Refill Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>840.000000</string>
+                </dict>
+                <key>zDepth</key>
+                <string>16</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

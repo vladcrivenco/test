@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>52964</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>80996</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>80996</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>53322</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>7130</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>53578</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>7130</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>53580</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>7130</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>84476</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>80996</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>80996</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>84478</string>
+                <key>Image</key>
+                <dict>
+                    <key>value</key>
+                    <string>80996</string>
+                </dict>
+                <key>Image Selected</key>
+                <dict>
+                    <key>value</key>
+                    <string>80996</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
