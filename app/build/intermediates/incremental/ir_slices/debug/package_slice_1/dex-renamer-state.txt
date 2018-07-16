@@ -1,4 +1,0 @@
-#Fri Jul 13 16:52:53 EEST 2018
-base.0=E\:\\Templates\\Skate\\Skate_Android\\Project\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
-path.0=classes.dex
-renamed.0=classes.dex
